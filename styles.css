@@ -1,0 +1,47 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.carousel {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+
+}
+
+.navbar-custom {
+    background-color: rgb(232, 232, 232)
+
+}
+
+.navbar .nav-link {
+    color: rgb(0, 0, 0);
+
+}
+
+
+.opciones {
+    padding: 12px 15px;
+    background-color:rgb(232, 232, 232);
+    border-bottom: 1px solid #ffffff;
+    text-align: left;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+}
+
+.opciones:hover {
+    background-color: #7ea7b0;
+    cursor: pointer;
+}
+
+p {
+    color: rgb(39, 40, 39);
+    font-weight: 500;
+    font-size: large;
+
+}
